@@ -1,0 +1,10 @@
+{
+  "subdomain": "infastracture",
+  "owner": {
+    "github": "wowiez"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "wowiez.github.io"
+  }
+}
